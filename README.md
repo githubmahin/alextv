@@ -24,7 +24,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 ## Authors
 
-- [@FunctionError](https://www.github.com/FunctionError)
+- [@FunctionError](https://www.github.com/githubmahin)
 
 ### 📺 Join us 👇
 
